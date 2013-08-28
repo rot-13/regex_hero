@@ -1,0 +1,1 @@
+class RegExHero.ExGen extends Backbone.Model
